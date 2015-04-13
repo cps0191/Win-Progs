@@ -1,2 +1,2 @@
 # Win-Progs
-compiled programs for xpista
+compiled programs for xp and vista
