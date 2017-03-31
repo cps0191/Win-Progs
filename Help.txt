@@ -1,9 +1,6 @@
 All the files below are Zipped and intended forPC. They have been tested on XP, Vista and Windows 10.
 MASSCOPY: allows files from multiple directories to be copied into one directory, they will be given sequential file names
 IE Track10.mpg, track 30.mpg, Mything7.mpg could be written to Mus01.mpg, Mus02.mpg, Mus03.mpg. at up to 1000 in a pass.
-
 RAILB2: Is a computerised version of the RAIL BARON payout chart. You select start and destination towns to get the payout due.
-
 MARG2: Is a digital scoring system for keeping track of the scores during a game of Marjhong. Suitable for 3 or 4 players.
-
 TRITAC: Is a game intended for two players conected by either a LAN or The Internet. It requires an internet connection as it uses the GNET lobby to advertise the session. The gamne is better known as Tritactics and is a versio of Dover Patrol.
