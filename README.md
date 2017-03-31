@@ -1,2 +1,2 @@
 # Win-Progs
-compiled programs for xp and vista
+compiled programs for PC tested on xp, vista or win10
