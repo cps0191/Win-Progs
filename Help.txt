@@ -1,3 +1,4 @@
+All the files below are Zipped and intended forPC. They have been tested on XP, Vista and Windows 10.
 MASSCOPY: allows files from multiple directories to be copied into one directory, they will be given sequential file names
 IE Track10.mpg, track 30.mpg, Mything7.mpg could be written to Mus01.mpg, Mus02.mpg, Mus03.mpg. at up to 1000 in a pass.
 
