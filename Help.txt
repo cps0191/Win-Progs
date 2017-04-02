@@ -5,6 +5,6 @@ MASSCOPY: allows files from multiple directories to be copied into one directory
 RAILB2: Is a computerised version of the RAIL BARON payout chart. You select start and destination towns to get the payout due.
 MARG2: Is a digital scoring system for keeping track of the scores during a game of Marjhong. Suitable for 3 or 4 players.
 TRITAC: Is a game intended for two players conected by either a LAN or The Internet. It requires an internet connection
-as it uses the GNET lobby to advertise the session. The gamne is better known as Tritactics a version of Dover Patrol.
+as it uses the GNET lobby to advertise the session. The game is better known as Tri Tactics a version of Dover Patrol.
 VIKING3: Is the Viking game or Hnefatafl a game intended for two players conected by either a LAN or The Internet.
 It requires an internet connectionas it uses the GNET lobby to advertise the session.
